@@ -1,2 +1,2 @@
 # Responsive-Portfolio-Website
-https://oguzgok-ai.github.io/Responsive-Portfolio-Website/
+https://oguzhangencer.github.io/Responsive-Portfolio-Website/
