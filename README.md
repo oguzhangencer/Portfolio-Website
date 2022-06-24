@@ -3,4 +3,4 @@
 
 **You can visit the website clicking [here!](https://oguzhangencer.github.io/Portfolio-Website/)**
 
-# Libraries/Technologies used
+
